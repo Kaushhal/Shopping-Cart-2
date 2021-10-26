@@ -1,0 +1,51 @@
+
+[   {
+       "name":"Red T Shirt",
+       "category":"Clothing",
+       "price":"599",
+       "imgSrc":"images/RedTee.jpg"
+    },
+    {
+       "name":"Black Shoes",
+       "category":"Accesories",
+       "price":"999",
+       "imgSrc":"images/Blackshoes.jpg"
+    },
+    {
+       "name":"Wireless Headphones",
+       "category":"Headphones",
+       "price":"2599",
+       "imgSrc":"images/WirelessHeadphones.jpg"
+    },
+    {
+       "name":"Blue Jeans",
+       "category":"Clothing",
+       "price":"899",
+       "imgSrc":"images/jeans.jpg"
+    },
+    {
+       "name":"Sunglasses",
+       "category":"Accesories",
+       "price":"2370",
+       "imgSrc":"images/Sunglasses.jpg"
+    },
+    {
+       "name":"Faux Leather Handbag",
+       "category":"Accessories",
+       "price":"1999",
+       "imgSrc":"images/handbag.jpg"
+    },
+    {
+       "name":"Cricket Bat",
+       "category":"Sports Equipment",
+       "price":"5099",
+       "imgSrc":"images/cricket bat.jpg"
+    },
+    {
+       "name":"Mobile Phone",
+       "category":"Electronics",
+       "price":"7999",
+       "imgSrc":"images/MobilePhone.jpg"
+    }
+]
+ 
